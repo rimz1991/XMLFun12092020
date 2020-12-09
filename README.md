@@ -1,7 +1,7 @@
 # XMLFun12092020
 
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE>
+<!DOCTYPE note>
 <note>
   <to>Joyce</to>
   <from>Rima</from>
