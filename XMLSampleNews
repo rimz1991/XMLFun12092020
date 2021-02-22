@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nitf>
+  <head>
+    <title>Winter Storm Uri</title>
+  </head>
+  <body>
+    <headline>
+      <hl1>Millions of Texas Residents Without Power</hl1>
+    </headline>
+    <byline>
+      <bytag>By Rima Maredia, Technical Writer</bytag>
+    </byline>
+    <dateline>
+      <location>Houston, Texas</location>
+      <date>Monday February 15, 2021 6:45 CST</date>
+    </dateline>
+  </body>
+</nitf>
